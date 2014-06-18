@@ -1,0 +1,154 @@
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Microsoft Research KinectSDK Samples\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.exe
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\bin\Debug\SkeletalViewer.pdb
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Kinect\Project\NUI\SkeletalViewer\CS\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\haseeb\Downloads\erts\report_gr_16\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+E:\CS_code\bin\Debug\SkeletalViewer.exe.config
+E:\CS_code\bin\Debug\SkeletalViewer.exe
+E:\CS_code\bin\Debug\SkeletalViewer.pdb
+E:\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CS_code\obj\x86\Debug\MainWindow.baml
+E:\CS_code\obj\x86\Debug\MainWindow.g.cs
+E:\CS_code\obj\x86\Debug\App.g.cs
+E:\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+E:\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+E:\CS_code\obj\x86\Debug\SkeletalViewer.exe
+E:\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Documents\new copyproj\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Documents\new copyproj\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Documents\new copyproj\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Ashok\Documents\new copyproj\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Ashok\Desktop\new copyproj_modified\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\19oct\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\ERTS Lab\Desktop\19oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\ERTS Lab\Desktop\20oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+D:\Project_ashok\21oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+D:\Project_ashok\21oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+D:\Project_ashok\21oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+D:\Project_ashok\21oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+D:\Project_ashok\25oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+D:\Project_ashok\25oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+D:\Project_ashok\25oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+D:\Project_ashok\25oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+D:\Project_ashok\26oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+D:\Project_ashok\26oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+D:\Project_ashok\26oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+D:\Project_ashok\26oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+D:\Project_ashok\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+D:\Project_ashok\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+D:\Project_ashok\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+D:\Project_ashok\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe.config
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.exe
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\bin\Debug\SkeletalViewer.pdb
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.baml
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\App.g.cs
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer_MarkupCompile.cache
+C:\Users\Ashok\Desktop\27oct\Client_projV2\CS_code\obj\x86\Debug\SkeletalViewer.g.resources

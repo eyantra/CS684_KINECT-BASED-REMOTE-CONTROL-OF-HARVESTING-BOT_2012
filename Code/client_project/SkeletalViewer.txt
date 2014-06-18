@@ -1,0 +1,26 @@
+ double rx1 = angle(r_we, r_es);
+            double rx2 = angle(r_es, mid);
+            
+            double rx3 = angle(r_se,r_we);
+            double rx4 = angle(r_wc, pln);
+            double rx5 = angle(r_wc,mid);
+            double rx6 = angle(sl_sr, r_se);
+            double rx8 = angle(r_we, mid);
+            double rx7 = angle(r_we, pln);
+            double rx9 = angle(r_es, pln);
+            double rx10 = angle(r_req, mid);
+            
+
+
+
+            double lx1 = angle(l_we, l_es);
+            double lx2 = angle(l_es, mid);
+
+            double lx3 = angle(l_se, l_we);
+            double lx4 = angle(l_wc, pln);
+            double lx5 = angle(l_wc, mid);
+            double lx6 = angle(sl_sr, l_se);
+            double lx8 = angle(l_we, mid);
+            double lx7 = angle(l_we, pln);
+            double lx9 = angle(l_es, pln);
+            double lx10 = angle(l_req, mid);
